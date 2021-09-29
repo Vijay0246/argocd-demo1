@@ -1,4 +1,4 @@
-apiVersion: apps/v1
+apiVersion: apps/v1.20.9
 kind: Deployment
 metadata:
   labels:
